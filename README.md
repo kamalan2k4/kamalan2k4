@@ -17,7 +17,7 @@
 
 -👯 I’m looking for a software development internship where I can contribute, learn, and grow.
 
--📫 Feel free to reach out via [Linkedin](https://www.linkedin.com/in/kamalan-cs-829679241/) [Gmail](kamalan.skcet@gmail.com)
+-📫 Feel free to reach out via [Linkedin](https://www.linkedin.com/in/kamalan-cs-829679241/) 
 
 
 
